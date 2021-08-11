@@ -38,7 +38,7 @@ class _HomePageScreenState extends State<HomePageScreen> {
               },
               childCount: 50,
             ),
-          )
+          ),
         ],
       ),
     );
